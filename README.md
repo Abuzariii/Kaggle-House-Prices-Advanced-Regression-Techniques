@@ -4,6 +4,8 @@
 
 **The dataset can be downloaded [here.](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)**
 
+**Use the Pandas Profiling notebook only if you want to learn it, else use the "01_Linear_Regression.ipynb" file.**
+
 **This notebook is divided into 5 portions:**
 
 ### `1. Pandas Profiling :`
