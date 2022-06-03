@@ -1,6 +1,8 @@
 # Kaggle-House-Prices-Advanced-Regression-Techniques
 
-**I have implemented all the core methods you need to preprocess a large dataset and then used the Linear Regression model.**
+**I went through all the fundamental steps you need to preprocess a large dataset and then used the Linear Regression model.**
+
+**Deep Neural Networks were used to beat the Mean Absoulte Error of the baseline model.**
 
 **The dataset can be downloaded [here.](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)**
 
